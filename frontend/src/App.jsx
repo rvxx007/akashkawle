@@ -227,9 +227,6 @@ function App() {
 
 const dwidth = window.innerWidth;
 
-console.log(dwidth);
-
-
 const driverObj = driver(dwidth<800 ? {
   showProgress: true,
   showButtons: ['next', 'previous'],
