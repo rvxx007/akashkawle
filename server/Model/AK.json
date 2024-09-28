@@ -1,0 +1,245 @@
+{
+  "name": "Akash kawale",
+  "email": "akashkawle0@gmail.com",
+  "ph": 939577131,
+  "img": "ak",
+  "bg": "bg",
+  "aboutTitle": "About Me",
+  "about": "I was born in Nagpur, Maharashtra, and currently live in Hydrabad, Telangana. My journey into frontend/backend/mernstack development began in 2023, and since then, I’ve fallen in love with everything related to the MERN stack (MongoDB, Express.js, React, Node.js).",
+  "initials": "AK",
+  "headtitle": "Hello , I'm a FullStack & MernStack Developer",
+  "headsub": "Im a dedicated full-stack developer with a strong foundation in both front-end and back-end technologies. My expertise lies in building robust and scalable web applications using the MERN stack (MongoDB, Express.js, React, Node.js). I&apos;m passionate about crafting intuitive user interfaces and efficient server-side logic.",
+  "skills": [
+    {
+      "blockId": "fred",
+      "headTitle": "Frontend",
+      "Obj": [
+        {
+          "img": "htmlImg",
+          "title": "HTML"
+        },
+        {
+          "img": "cssImg",
+          "title": "CSS"
+        },
+        {
+          "img": "jsImg",
+          "title": "JavaScript"
+        },
+        {
+          "img": "reactImg",
+          "title": "React"
+        },
+        {
+          "img": "bootstrapImg",
+          "title": "BootStrap"
+        },
+        {
+          "img": "twCSSImg",
+          "title": "TailwindCSS"
+        }
+      ]
+    },
+    {
+      "blockId": "bked",
+      "headTitle": "Backend",
+      "Obj": [
+        {
+          "img": "nodeImg",
+          "title": "Node.js"
+        },
+        {
+          "img": "expressImg",
+          "title": "Express.js"
+        },
+        {
+          "img": "mongoImg",
+          "title": "MongoDB"
+        }
+      ]
+    }
+  ],
+  "tools": [
+    {
+      "blockId": "devTl",
+      "headTitle": "Developement Tools",
+      "Obj": [
+        {
+          "img": "AndStudImg",
+          "title": "Android Studio"
+        },
+        {
+          "img": "VsCodeImg",
+          "title": "VsCode"
+        },
+        {
+          "img": "intelijImg",
+          "title": "Intelij Ultimate"
+        }
+      ]
+    },
+    {
+      "blockId": "disTl",
+      "headTitle": "Design Tools",
+      "Obj": [
+        {
+          "img": "canvaImg",
+          "title": "Canva"
+        },
+        {
+          "img": "blenderImg",
+          "title": "Blender"
+        }
+      ]
+    },
+    {
+      "blockId": "aiTl",
+      "headTitle": "AI Tools",
+      "Obj": [
+        {
+          "img": "chatgptImg",
+          "title": "ChatGPT",
+          "url": "https://chatgpt.com/"
+        },
+        {
+          "img": "geminiImg",
+          "title": "Gemini",
+          "url": "https://gemini.google.com/app"
+        },
+        {
+          "img": "msBingAIImg",
+          "title": "MS Bing AI",
+          "url": "https://www.bing.com/images/create"
+        },
+        {
+          "img": "msDesignerImg",
+          "title": "MS Designer",
+          "url": "https://designer.microsoft.com/"
+        },
+        {
+          "img": "msCopilot",
+          "title": "MS Copilot",
+          "url": "https://copilot.microsoft.com/"
+        }
+      ]
+    },
+    {
+      "blockId": "diaTl",
+      "headTitle": "Diagramming Tools",
+      "Obj": [
+        {
+          "img": "drawio",
+          "title": "Draw.io",
+          "url": "https://app.diagrams.net/"
+        },
+        {
+          "img": "excalidraw",
+          "title": "ExcaliDraw",
+          "url": "https://excalidraw.com/"
+        }
+      ]
+    },
+    {
+      "blockId": "hdTl",
+      "headTitle": "Hosting & Deployment Tools",
+      "Obj": [
+        {
+          "img": "gitImg",
+          "title": "Git",
+          "url": "#"
+        },
+        {
+          "img": "githubImg",
+          "title": "GitHub",
+          "url": "https://github.com/rvxx007"
+        },
+        {
+          "img": "netlifyImg",
+          "title": "Netlify",
+          "url": "https://www.netlify.com/"
+        },
+        {
+          "img": "renderImg",
+          "title": "Render",
+          "url": "https://render.com/"
+        },
+        {
+          "img": "vercelImg",
+          "title": "Vercel",
+          "url": "https://vercel.com/"
+        }
+      ]
+    }
+  ],
+  "serviceObj": [
+    {
+      "idblock": "fe-dev",
+      "headtitle": "Frontend Developement",
+      "description": "Create Frontend web applications using the HTML, CSS, JS , React, TailwindCSS, BootStrap .",
+      "Obj": [
+        {
+          "img": "htmlImg",
+          "title": "HTML"
+        },
+        {
+          "img": "cssImg",
+          "title": "CSS"
+        },
+        {
+          "img": "jsImg",
+          "title": "JavaScript"
+        },
+        {
+          "img": "reactImg",
+          "title": "React"
+        },
+        {
+          "img": "twCSSImg",
+          "title": "TailwindCSS"
+        }
+      ]
+    },
+    {
+      "idblock": "de-dev",
+      "headtitle": "Backend Developement",
+      "description": "Create Backend applications using the Node.js, Express.js(REST API), MongoDB.",
+      "Obj": [
+        {
+          "img": "nodeImg",
+          "title": "Node.js"
+        },
+        {
+          "img": "expressImg",
+          "title": "Express.js"
+        },
+        {
+          "img": "mongoImg",
+          "title": "MongoDB"
+        }
+      ]
+    },
+    {
+      "idblock": "ms-dev",
+      "headtitle": "MernStack Developement",
+      "description": "Create web applications using the MERN stack (MongoDB, Express.js, React, Node.js).",
+      "Obj": [
+        {
+          "img": "mongoImg",
+          "title": "MongoDB"
+        },
+        {
+          "img": "expressImg",
+          "title": "Express.js"
+        },
+        {
+          "img": "reactImg",
+          "title": "React"
+        },
+        {
+          "img": "nodeImg",
+          "title": "Node.js"
+        }
+      ]
+    }
+  ]
+}
